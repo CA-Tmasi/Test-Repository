@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-12T10:19:21.3385317+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a45af5520d15a082f711e262b14d976d960405f7a8bec8d6e82e46f74dc61a7d
+    name: test-chart
+    type: application
+    urls:
+    - https://github.com/CA-Tmasi/Test-Repository.git/test-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-12T10:19:21.3368928+01:00"
