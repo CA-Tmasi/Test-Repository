@@ -9,6 +9,6 @@ entries:
     name: test-chart
     type: application
     urls:
-    - https://github.com/CA-Tmasi/Test-Repository.git/test-chart-0.1.0.tgz
+    - https://ca-tmasi.github.io/Test-Repository/
     version: 0.1.0
 generated: "2022-12-12T10:19:21.3368928+01:00"
